@@ -26,8 +26,8 @@ function App() {
     <div className="todo-app">
       <header>
         <h1>
-        Todo App
-        </h1>
+        Todo List
+        </h1> 
       </header>
       <TodoForm addTodo={addTodo}/>
       <TodoList todos={todos} toggleComplete={toggleComplete}/>
