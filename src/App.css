@@ -44,8 +44,8 @@ h1 {
   outline: none;
   background: linear-gradient(
     90deg,
-    rgba(105, 20, 204, 1) 0%,
-    rgba(44, 114, 251, 1) 100%
+    rgba(38, 12, 38) 0%,
+    rgba(240, 80, 80) 100%
   );
   color: #fff;
   text-transform: capitalize;
@@ -70,7 +70,7 @@ h1 {
     rgba(20, 159, 255, 1) 0%,
     rgba(17, 122, 255, 1) 100%
   );
-  padding: 16px 22px;
+  padding: 16px 500px;
 }
 
 .todo-container {
